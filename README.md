@@ -23,6 +23,26 @@ However Lot 3 exceeds the specifications drastically
 
 ## T-Tests on Suspension Coils
 
+the PSI across all manufacturing lots.
+
+![psi1](https://user-images.githubusercontent.com/99618784/172028760-974f8cfc-f4a4-40bf-87e7-235f1f310293.PNG)
+
+Lot 1 Test:
+
+![lot1](https://user-images.githubusercontent.com/99618784/172028790-4c3b2be4-9741-4dec-9140-54e3491656f3.PNG)
+
+Lot 2 Test: 
+
+![lot2](https://user-images.githubusercontent.com/99618784/172028820-d0d93543-1505-4512-b366-f2df4ad6efb1.PNG)
+
+Lot 3 Test: 
+
+![lot3](https://user-images.githubusercontent.com/99618784/172028833-1d316de1-5713-4cfa-90b1-d778845ec856.PNG)
+
+
+
+
+
 /briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary/
 
 ## Study Design: MechaCar vs Competition
